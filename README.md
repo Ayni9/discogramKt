@@ -1,2 +1,2 @@
 # discogramKt
-Application that helps you translating discord rpc in telegram message via bot api
+Application that helps you to translating discord rpc in telegram message via bot api
